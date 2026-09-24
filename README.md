@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**Full Stack Engineer**  ·  Dortmund, Germany
+**Full Stack Engineer**  
 
 </div>
 
